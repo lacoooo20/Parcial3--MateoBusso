@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\bin\Debug\net8.0\Bibliotecaparcial3.deps.json
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\bin\Debug\net8.0\Bibliotecaparcial3.runtimeconfig.json
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\bin\Debug\net8.0\Bibliotecaparcial3.dll
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\bin\Debug\net8.0\Bibliotecaparcial3.pdb
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.sourcelink.json
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.dll
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\refint\Bibliotecaparcial3.dll
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.pdb
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\Bibliotecaparcial3.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Parcial3\Parcial3--MateoBusso\Bibliotecaparcial3\obj\Debug\net8.0\ref\Bibliotecaparcial3.dll
