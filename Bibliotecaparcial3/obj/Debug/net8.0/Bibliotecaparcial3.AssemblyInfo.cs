@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bibliotecaparcial3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5745dc5e1743bba1aa67233a84cd433f965100b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97936f86b9ddc00ac0e8388307bbcb9f9e98fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bibliotecaparcial3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bibliotecaparcial3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

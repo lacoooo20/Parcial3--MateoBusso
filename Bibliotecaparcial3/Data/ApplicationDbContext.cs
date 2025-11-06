@@ -11,6 +11,9 @@ namespace Bibliotecaparcial3.Data
     public class ApplicationDbContext : DbContext
     {
         public DbSet<Empleados> Empleados { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Venta> Ventas { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

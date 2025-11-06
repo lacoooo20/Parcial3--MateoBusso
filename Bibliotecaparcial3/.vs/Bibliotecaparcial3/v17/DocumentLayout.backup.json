@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D80D50B8-4039-4C23-B69B-742EAB8B057C}|..\\FRONT\\FRONT.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\repositorio\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:repositorio\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:repositorio\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\repositorio\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:repositorio\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\repositorio\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -12,6 +32,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|solutionrelative:modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6F3D5DB-A877-4D78-82ED-A1E738AE0CB8}|Bibliotecaparcial3.csproj|c:\\users\\usuario\\downloads\\parcial3\\parcial3--mateobusso\\bibliotecaparcial3\\modelos\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,26 +61,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\FRONT\\Program.cs",
-              "RelativeDocumentMoniker": "..\\FRONT\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\FRONT\\Program.cs",
-              "RelativeToolTip": "..\\FRONT\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositorio\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:45:48.375Z",
+              "WhenOpened": "2025-11-05T22:16:36.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositorio\\ProductoRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:16:18.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmpleadoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\EmpleadoRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorio\\EmpleadoRepositorio.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\EmpleadoRepositorio.cs",
               "RelativeToolTip": "Repositorio\\EmpleadoRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:36:55.643Z",
               "EditorCaption": ""
@@ -64,19 +101,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositorio\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Repositorio\\VentaRepository.cs",
+              "RelativeToolTip": "Repositorio\\VentaRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:16:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\FRONT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FRONT\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\FRONT\\Program.cs",
+              "RelativeToolTip": "..\\FRONT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:45:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "Modelos\\Cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:15:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:15:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:19:36.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Venta.cs",
+              "RelativeDocumentMoniker": "Modelos\\Venta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Venta.cs",
+              "RelativeToolTip": "Modelos\\Venta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:15:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Empleados.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Modelos\\Empleados.cs",
               "RelativeDocumentMoniker": "Modelos\\Empleados.cs",
@@ -84,11 +186,12 @@
               "RelativeToolTip": "Modelos\\Empleados.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T13:15:14.984Z"
+              "WhenOpened": "2025-11-05T13:15:14.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Parcial3\\Parcial3--MateoBusso\\Bibliotecaparcial3\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
